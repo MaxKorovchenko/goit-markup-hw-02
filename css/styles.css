@@ -213,8 +213,9 @@ body {
   letter-spacing: 0.03em;
 
   color: var(--main-txt-cl);
-
-  cursor: pointer;
+  background-color: var(--light-bg-cl);
+ 
+   cursor: pointer;
 }
 
 .filter-btn:hover,
